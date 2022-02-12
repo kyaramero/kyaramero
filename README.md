@@ -14,8 +14,8 @@
 
 
 <div>
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kyaramero&theme=radical&hide=prs">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaramero&layout=compact&theme=radical">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=kyaramero&theme=radical&hide=prs">
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaramero&layout=compact&theme=radical">
 </div>
   
   <br>
