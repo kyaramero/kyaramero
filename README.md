@@ -1,10 +1,10 @@
 ## Hello, i'm Julia 🧁
-<div align="right"> <img align="right" width="120" src="https://i.ibb.co/vkXKFvc/ezgif-7-926060e06a.gif" alt="kyaramero-gif"></div>
+<div align="right"> <img align="right" width="160" src="https://i.ibb.co/vkXKFvc/ezgif-7-926060e06a.png" alt="kyaramero-gif"></div>
 
 <br>
 <div style="display: inline_block">
-  <div> - 🤖 Interested in working on front-end </div>
-  <div> - 🌱 Currently learning Unity for games and Javascript </div>
+  <div> - 🤖 Interested in working with front-end </div>
+  <div> - 🌱 Currently learning Unity and Javascript </div>
   <div> - 😄 Pronouns: She/Her </div>  
 </div>
 
