@@ -1,5 +1,5 @@
 ## Hello, i'm Julia 🧁
-<div align="right"> <img align="right" width="160" src="https://i.ibb.co/vkXKFvc/ezgif-7-926060e06a.png" alt="kyaramero-gif"></div>
+<div align="right"> <img align="right" width="120" src="https://i.ibb.co/vkXKFvc/ezgif-7-926060e06a.png" alt="kyaramero-gif"></div>
 
 <br>
 <div style="display: inline_block">
