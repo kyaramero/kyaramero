@@ -24,8 +24,8 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=kyaramero&theme=transparent&title_color=F76C82&mode=weekly)](https://git.io/streak-stats)
-[![Kyaramero's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyaramero&theme=transparent)](https://github.com/kyaramero/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=kyaramero&theme=transparent&title_color=F76C82&mode=weekly" width="450px" alt="kyaramero-streak">
+<img src="https://github-readme-stats.vercel.app/api?username=kyaramero&theme=transparent" width="410px" alt="kyaramero-stats">
 </div>
 
 <br>
