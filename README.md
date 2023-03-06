@@ -24,7 +24,7 @@
 
 <div align="center">
   
-<img src="https://streak-stats.demolab.com?user=kyaramero&theme=transparent&title_color=F76C82&mode=weekly" width="350px" alt="kyaramero-streak">
+<img src="https://streak-stats.demolab.com?user=kyaramero&theme=transparent&title_color=F76C82&mode=weekly" width="385px" alt="kyaramero-streak">
 <img src="https://github-readme-stats.vercel.app/api?username=kyaramero&theme=transparent" width="350px" alt="kyaramero-stats">
 </div>
 
