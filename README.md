@@ -1,10 +1,7 @@
-<h2 align="center"> Hello, I'm Julia 🧁
-  </h2>
-  
 <p align="center">
   
   <a src="https://git.io/kyaramero/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76C82&center=true&vCenter=true&repeat=false&width=440&height=45&lines=Like+Aladdin%3A+A+whole+new+world+"></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77BB8&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Julia"></a>
 
 </p>
 
