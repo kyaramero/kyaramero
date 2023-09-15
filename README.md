@@ -9,7 +9,7 @@
 <br>
 
 ```
-+ Front-end Developer
++ Fullstack Developer
 ! Learning the way into Data Analysis 
 @ Pronouns: She/Her 
 ```
