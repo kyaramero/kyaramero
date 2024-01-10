@@ -10,7 +10,7 @@
 
 ```
 + Fullstack Developer
-! Learning the way into Data Analysis 
+! Learning the way into Java
 @ Pronouns: She/Her 
 ```
 <br>
